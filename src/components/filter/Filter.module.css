@@ -1,0 +1,15 @@
+.filterLabel {
+    font-size: 22px;
+    padding: 8px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .filterInput {
+    width: 340px;
+    height: 36px;
+    vertical-align: middle;
+    font-size: 18px;
+    margin-top: 4px;
+    border-radius: 4px;
+  }
